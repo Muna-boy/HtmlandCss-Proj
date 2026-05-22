@@ -1,0 +1,14 @@
+div {
+    border: 1px solid;
+    text-align: center;
+    margin-left: 3cm;
+    width: 20%;
+    padding: 10px;
+}
+.header {
+    text-decoration: underline;
+    color: blue;
+}
+body{
+    padding: 50px;
+}
